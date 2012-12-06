@@ -1,3 +1,11 @@
 tao day
 modify using browser
+<<<<<<< HEAD
 modify in local
+=======
+
+tao day 2
+modify using browser 2
+
+tai sao
+>>>>>>> origin/b1_rename_old
