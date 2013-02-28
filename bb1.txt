@@ -1,7 +1,12 @@
 tao day
 modify using browser
 modifying using local
+<<<<<<< HEAD
 edit in local 
 edit on server
 edit on server 2
 
+=======
+edit on server
+edit on server 2
+>>>>>>> 9c638beab243b6ae8ea045d015b70f45cef3da87
