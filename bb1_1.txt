@@ -1,1 +1,2 @@
 this file 1 in b/b1 branch
+ignore file
